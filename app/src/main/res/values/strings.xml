@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Expense Tracker</string>
+    <string name="filter_prompt">Sort by:</string>
+    <string-array name="filter_options">
+        <item>All Time</item>
+        <item>Last Week</item>
+        <item>Last Month</item>
+        <item>Last 3 Months</item>
+        <item>Last 6 Months</item>
+        <item>Last Year</item>
+    </string-array>
+</resources>

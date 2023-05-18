@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_200">#8BEC8F</color>
+    <color name="green_500">#4CAF50</color>
+    <color name="green_700">#307333</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#F44336</color>
+
+    <color name="food_color">#7fc97f</color>
+    <color name="transportation_color">#beaed4</color>
+    <color name="entertainment_color">#fdc086</color>
+    <color name="medical_color">#ffff99</color>
+    <color name="housing_color">#386cb0</color>
+    <color name="income_color">#f0027f</color>
+    <color name="insurance_color">#bf5b17</color>
+    <color name="miscellaneous_color">#666666</color>
+    <color name="personal_color">#1b9e77</color>
+    <color name="savings_color">#d95f02</color>
+    <color name="utilities_color">#7570b3</color>
+</resources>
